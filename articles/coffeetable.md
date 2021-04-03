@@ -13,7 +13,7 @@ Approx cost: Other than screws everything was spare.
 Craftspeople:
 
 - Alex Hedley
-- Jon Hedley
+- Jonathan Hedley
 - Philip Hay
 
 ## Materials
