@@ -1,14 +1,4 @@
 {
-  "README.html": {
-    "href": "README.html",
-    "title": "workshop | Workshop",
-    "keywords": "workshop Builds from the Workshop mono /Users/alexhedley/Documents/docfx/docfx.exe docfx.json --serve"
-  },
-  "index.html": {
-    "href": "index.html",
-    "title": "Workshop | Workshop",
-    "keywords": "Workshop I'm currently building a workshop and looking to start a journey of building some wonderful pieces. This blog is to keep track of the items and the processes used. Check out the Articles section for details."
-  },
   "articles/intro.html": {
     "href": "articles/intro.html",
     "title": "Intro | Workshop",
@@ -18,5 +8,20 @@
     "href": "articles/coffeetable.html",
     "title": "Coffee Table | Workshop",
     "keywords": "Coffee Table Finished Piece Details Build Date: Sept 19th 2020 Approx cost: Other than screws everything was spare. Craftspeople: Alex Hedley Jonathan Hedley Philip Hay Materials 4x Hairpin Table Legs 3 pieces of wood Mini cross pieces (fence timber) Wax Grey paint Black spraypaint Screws Tools Evolution mitre saw Drill Screwdriver Sandpaper Photos Process Cut the three main pieces of wood to the same size. Screw supporting pieces between all three and a cross piece. Sand down Paint Wax Attach legs."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Workshop | Workshop",
+    "keywords": "Workshop I'm currently building a workshop and looking to start a journey of building some wonderful pieces. This blog is to keep track of the items and the processes used. Check out the Articles section for details."
+  },
+  "README.html": {
+    "href": "README.html",
+    "title": "workshop | Workshop",
+    "keywords": "workshop Builds from the Workshop mono /Users/alexhedley/Documents/docfx/docfx.exe docfx.json --serve"
+  },
+  "articles/seveninchvinyl.html": {
+    "href": "articles/seveninchvinyl.html",
+    "title": "7\" Vinyl Holder | Workshop",
+    "keywords": "7\" Vinyl Holder Finished Piece <!-- ![Vinyl](images/Vinyl.jpeg \"Vinyl\") --> Details Build Date: ... Approx cost: ... Craftspeople: Alex Hedley Jonathan Hedley Materials pallet wood Tools Evolution mitre saw table saw Photos <!-- ![Vinyl](images/Vinyl.jpeg \"Vinyl\") --> Process ..."
   }
 }

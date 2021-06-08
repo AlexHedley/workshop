@@ -60,12 +60,24 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "articles/seveninchvinyl.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/seveninchvinyl.html",
+          "hash": "WUKxnhYpBuJvu9W9V2fu2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "articles/toc.yml",
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "X/ICdEBLvsb9H1ILzFGV8A=="
+          "hash": "/QQMnQDKWhYJIbazc2T6rw=="
         }
       },
       "is_incremental": false,
@@ -107,6 +119,13 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -117,14 +136,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 4,
-          "skipped_file_count": 0
-        },
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
+          "total_file_count": 5,
           "skipped_file_count": 0
         }
       }
