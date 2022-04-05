@@ -13,12 +13,15 @@
       "is_incremental": false
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "README.md",
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "0qu/1gEVRg6nf6hc75aIIQ=="
+          "hash": "3vSxvpqKC6sK3/huKsS9Bg=="
         }
       },
       "is_incremental": false,
@@ -30,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/coffeetable.html",
-          "hash": "8GmFin8pHiwAeRAzesxDvQ=="
+          "hash": "hIFOYNzB3lEKPzTk7tB5Wg=="
         }
       },
       "is_incremental": false,
@@ -48,12 +51,35 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "articles/images/pizzaoventable.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/pizzaoventable.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "articles/intro.md",
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "C+cFEXsWbW99a8B1+8ja9A=="
+          "hash": "hnnuVRyMKZhKo0Uv2VJoUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pizzaoventable.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pizzaoventable.html",
+          "hash": "f69XUcO8Os6aI3d1k4nL+g=="
         }
       },
       "is_incremental": false,
@@ -65,7 +91,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/seveninchvinyl.html",
-          "hash": "WUKxnhYpBuJvu9W9V2fu2g=="
+          "hash": "DNeFzd8/zhcK4PkHwfldrg=="
         }
       },
       "is_incremental": false,
@@ -77,7 +103,29 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "/QQMnQDKWhYJIbazc2T6rw=="
+          "hash": "M/j7AHp4O4buxhvMRaqBNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "images/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
         }
       },
       "is_incremental": false,
@@ -89,7 +137,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "s+9rUtzU0J9ys6a6BrC5ag=="
+          "hash": "3o77XYHqKdfWhBsu0dc+/g=="
         }
       },
       "is_incremental": false,
@@ -136,7 +184,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 5,
+          "total_file_count": 6,
           "skipped_file_count": 0
         }
       }

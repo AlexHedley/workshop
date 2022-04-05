@@ -1,27 +1,32 @@
 {
-  "articles/intro.html": {
-    "href": "articles/intro.html",
-    "title": "Intro | Workshop",
-    "keywords": "Intro Check out the TOC for articles."
+  "articles/seveninchvinyl.html": {
+    "href": "articles/seveninchvinyl.html",
+    "title": "7\" Vinyl Holder | Workshop",
+    "keywords": "7\" Vinyl Holder Finished Piece <!-- ![Vinyl](images/Vinyl.jpeg \"Vinyl\") --> Details Build Date: ... Approx cost: ... Craftspeople: Alex Hedley Jonathan Hedley Materials pallet wood Tools Evolution mitre saw table saw Photos <!-- ![Vinyl](images/Vinyl.jpeg \"Vinyl\") --> Process ..."
   },
-  "articles/coffeetable.html": {
-    "href": "articles/coffeetable.html",
-    "title": "Coffee Table | Workshop",
-    "keywords": "Coffee Table Finished Piece Details Build Date: Sept 19th 2020 Approx cost: Other than screws everything was spare. Craftspeople: Alex Hedley Jonathan Hedley Philip Hay Materials 4x Hairpin Table Legs 3 pieces of wood Mini cross pieces (fence timber) Wax Grey paint Black spraypaint Screws Tools Evolution mitre saw Drill Screwdriver Sandpaper Photos Process Cut the three main pieces of wood to the same size. Screw supporting pieces between all three and a cross piece. Sand down Paint Wax Attach legs."
+  "articles/pizzaoventable.html": {
+    "href": "articles/pizzaoventable.html",
+    "title": "Pizza Oven Table | Workshop",
+    "keywords": "Pizza Oven Table Finished Piece Details Build Date: 26th March 2022 Approx cost: < £20? Craftspeople: Alex Hedley Materials 2x4 - 2400mm mdf - 5mm 50mmx50mm Metal sheet - 1mm 50mmx50mm £14 eBay screws Tools Evolution mitre saw table saw Drill Photos Process Cut a sheet of mdf to 50mm x 50mm. Drill a hole into each corner of the metal sheet. Cut two pieces of 2x4 to 50mm each. Cut two pieces of 2x4 to 40mm? each (diff in length to make square) Measure half way from edge of end piece. Drill pilot holes on each end. Screw together. Lay MDF on top, then sheet metal on top. Screw into base."
   },
   "index.html": {
     "href": "index.html",
     "title": "Workshop | Workshop",
     "keywords": "Workshop I'm currently building a workshop and looking to start a journey of building some wonderful pieces. This blog is to keep track of the items and the processes used. Check out the Articles section for details."
   },
+  "articles/intro.html": {
+    "href": "articles/intro.html",
+    "title": "Intro | Workshop",
+    "keywords": "Intro Check out the TOC for articles. Coffee Table 7\" Vinyl Box Pizza Oven Table"
+  },
   "README.html": {
     "href": "README.html",
     "title": "workshop | Workshop",
-    "keywords": "workshop Builds from the Workshop mono /Users/alexhedley/Documents/docfx/docfx.exe docfx.json --serve"
+    "keywords": "workshop Builds from the Workshop Site local Published License MIT License DocFX Walkthrough Part I: Generate a Simple Documentation Website Pulled the source of this repo. docfx init -q Moved to root folder. Updated docfx.json Added favicon etc to the images folder. Build docfx docfx.json Run docfx serve _site Build and Run docfx docfx.json --serve Local Live Deploy The site is auto-deployed to GitHub Pages using ci-cd.yml"
   },
-  "articles/seveninchvinyl.html": {
-    "href": "articles/seveninchvinyl.html",
-    "title": "7\" Vinyl Holder | Workshop",
-    "keywords": "7\" Vinyl Holder Finished Piece <!-- ![Vinyl](images/Vinyl.jpeg \"Vinyl\") --> Details Build Date: ... Approx cost: ... Craftspeople: Alex Hedley Jonathan Hedley Materials pallet wood Tools Evolution mitre saw table saw Photos <!-- ![Vinyl](images/Vinyl.jpeg \"Vinyl\") --> Process ..."
+  "articles/coffeetable.html": {
+    "href": "articles/coffeetable.html",
+    "title": "Coffee Table | Workshop",
+    "keywords": "Coffee Table Finished Piece Details Build Date: Sept 19th 2020 Approx cost: Other than screws everything was spare. Craftspeople: Alex Hedley Jonathan Hedley Philip Hay Materials 4x Hairpin Table Legs 3 pieces of wood Mini cross pieces (fence timber) Wax Grey paint Black spraypaint Screws Tools Evolution mitre saw Drill Screwdriver Sandpaper Photos Process Cut the three main pieces of wood to the same size. Screw supporting pieces between all three and a cross piece. Sand down Paint Wax Attach legs."
   }
 }
