@@ -40,7 +40,13 @@
     "globalMetadata": {
       "_appTitle": "Workshop",
       "_appFooter": "Alex Hedley",
-      "_enableSearch": true
+      "_enableSearch": true,
+      "_appLogoPath": "images/logo.png",
+      "_appFaviconPath": "images/favicon.ico",
+      "_gitContribute": {
+        "repo": "https://github.com/AlexHedley/workshop",
+        "branch": "main"
+      }
     }
   }
 }
